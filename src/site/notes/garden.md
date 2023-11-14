@@ -2,5 +2,5 @@
 {"dg-publish":true,"permalink":"/garden/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-
-/publi
+this is a test
+/garden
